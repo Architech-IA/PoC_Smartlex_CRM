@@ -1,2 +1,2 @@
 # PoC_Smartlex_CRM
-PoC de CRM legal para Smartlex con gestión documental impulsada por IA en procesos de clasificación, búsqueda y extracción inteligente de información en expedientes y contratos
+PoC_Smartlex_CRM es una prueba de concepto de CRM orientado al sector legal para Smartlex. Además de la gestión comercial estándar (leads, casos, clientes, seguimiento), incorpora un módulo de gestión documental impulsada por IA: clasificación automática de documentos legales, búsqueda semántica sobre expedientes y contratos, y extracción de datos clave (partes, fechas, cláusulas) para reducir el trabajo manual de revisión.
